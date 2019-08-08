@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MadApp</string>
+    <string name="address">Address</string>
+    <string name="full_name">Full_name</string>
+    <string name="email">Email</string>
+    <string name="female">Female</string>
+    <string name="confirm_password">Confirm_password</string>
+    <string name="gender">Gender</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="register">Register</string>
+    <string name="subject">Subject</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="institute">Institute</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="phone_number">Phone_number</string>
+</resources>
