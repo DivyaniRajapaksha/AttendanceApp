@@ -15,7 +15,7 @@ public class Login_Form extends AppCompatActivity {
         getSupportActionBar().setTitle("Login Form");
     }
 
-
+	//New Method
     public void btn_directPage(View view) {
         startActivity(new Intent(getApplicationContext(),DirectPage.class));
     }
